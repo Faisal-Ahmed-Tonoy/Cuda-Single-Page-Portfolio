@@ -322,7 +322,7 @@ background:rgb(100, 58, 121,1);
 /*=======================================*/
 .team-section{
 	text-align: center;
-	background: linear-gradient(rgba(231,241,248 ,0.8),rgba(231,241,248,0.8)),url(img/gettyimages-621124632-2048x2048.jpg);
+	background: linear-gradient(rgba(231,241,248 ,0.5),rgba(231,241,248,0.5)),url(img/gettyimages-621124632-2048x2048.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
